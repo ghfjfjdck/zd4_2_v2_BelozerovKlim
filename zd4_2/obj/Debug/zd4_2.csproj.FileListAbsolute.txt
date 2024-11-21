@@ -1,7 +1,0 @@
-C:\Users\admin\Desktop\РАБ_ота\zd4_2\bin\Debug\zd4_2.exe.config
-C:\Users\admin\Desktop\РАБ_ота\zd4_2\bin\Debug\zd4_2.exe
-C:\Users\admin\Desktop\РАБ_ота\zd4_2\bin\Debug\zd4_2.pdb
-C:\Users\admin\Desktop\РАБ_ота\zd4_2\obj\Debug\zd4_2.csproj.AssemblyReference.cache
-C:\Users\admin\Desktop\РАБ_ота\zd4_2\obj\Debug\zd4_2.csproj.CoreCompileInputs.cache
-C:\Users\admin\Desktop\РАБ_ота\zd4_2\obj\Debug\zd4_2.exe
-C:\Users\admin\Desktop\РАБ_ота\zd4_2\obj\Debug\zd4_2.pdb
