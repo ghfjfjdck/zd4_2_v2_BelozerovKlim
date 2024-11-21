@@ -1,0 +1,6 @@
+C:\Users\305-1\Desktop\ghfjfjdck\zd4_2_v2_BelozerovKlim-main\LibForZd4_v2\bin\Debug\LibForZd4_v2.dll
+C:\Users\305-1\Desktop\ghfjfjdck\zd4_2_v2_BelozerovKlim-main\LibForZd4_v2\bin\Debug\LibForZd4_v2.pdb
+C:\Users\305-1\Desktop\ghfjfjdck\zd4_2_v2_BelozerovKlim-main\LibForZd4_v2\obj\Debug\LibForZd4_v2.csproj.AssemblyReference.cache
+C:\Users\305-1\Desktop\ghfjfjdck\zd4_2_v2_BelozerovKlim-main\LibForZd4_v2\obj\Debug\LibForZd4_v2.csproj.CoreCompileInputs.cache
+C:\Users\305-1\Desktop\ghfjfjdck\zd4_2_v2_BelozerovKlim-main\LibForZd4_v2\obj\Debug\LibForZd4_v2.dll
+C:\Users\305-1\Desktop\ghfjfjdck\zd4_2_v2_BelozerovKlim-main\LibForZd4_v2\obj\Debug\LibForZd4_v2.pdb
